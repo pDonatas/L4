@@ -1,0 +1,4 @@
+﻿1
+Huawei p10;200;499
+Apple Iphone S MAX;150;999,99
+Nokia 3310;300;54,99

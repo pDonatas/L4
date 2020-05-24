@@ -1,0 +1,5 @@
+﻿Huawei p10;15
+Dantų šepetėlis;20
+Dažų purkštuvas;14
+Automobilio padangos;20
+Nokia 3310;14

@@ -1,0 +1,5 @@
+﻿4
+Automobilio padangos;400;100
+Perdengimo plokštė;400;35
+Automobilinė alyva;700;7,99
+Jūrų kiaulytė;400;15

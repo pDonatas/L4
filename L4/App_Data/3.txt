@@ -1,0 +1,4 @@
+﻿3
+Dažų purkštuvas;200;3,99
+Šūnų ėdalas;30;1,99
+Akiniai;100;50

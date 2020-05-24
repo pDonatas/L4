@@ -1,0 +1,4 @@
+﻿2
+Dantų šepetėlis;200;0,99
+Dantų pasta;150;1,5
+Oro gaiviklis;200;3,5
